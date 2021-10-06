@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: amita-regular
+font link: https://fonts.google.com/specimen/Amita
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: Björn Andersson
+icon designer link: /bjorna1
+        
+
+fontColor: {"hex":"#FC4B4B"}
+bgColor: {"hex":"transparent"}
+iconColor: {"hex":"#FC4B4B"}
+
+      

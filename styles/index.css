@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+.gradient-headline {
+     @apply text-8xl text-transparent bg-gradient-to-r bg-clip-text;   
+        }
+        
+@tailwind utilities;
